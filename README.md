@@ -1,4 +1,4 @@
-![MÜHENDİSLİK ÖĞRENCİLERİ VE MÜHENDİSLER İÇİN KİTAP ÖNERİLERİ](img%20banner.png)
+![MÜHENDİSLİK ÖĞRENCİLERİ VE MÜHENDİSLER İÇİN KİTAP ÖNERİLERİ](img/banner.png)
 
 ***
 
@@ -8,9 +8,9 @@
 
 ***
 
-<sub>Kitap öneriniz mi var? Hemen Twitter'dan ulaşabilirsiniz. [Twitter](https://twitter.com/ahmetalpat).</sub>
+<sub>Kitap önerilerinizi Twitter'dan ulaştırabilirsiniz. [Twitter](https://twitter.com/ahmetalpat).</sub>
 
-Types of Design Patterns
+Kategoriler
 -----------------
 * [Popüler Bilim](#populerbil)
 * [İş](#is)

@@ -28,7 +28,7 @@ Kategoriler
 ==========================
 
 
-## 👬 Nasıl katkı sağlarım?
+## :couple: Nasıl katkı sağlarım?
 - Kitap önerisi yaparak
 - Repo için değişiklikler yapıp PR oluşturarak
 - Düzeltilmesi gereken noktaları belirterek

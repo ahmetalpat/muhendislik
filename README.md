@@ -8,13 +8,13 @@
 
 ***
 
-<sub>Kitap önerilerinizi Twitter'dan ulaştırabilirsiniz. [Twitter](https://twitter.com/ahmetalpat).</sub>
+<sub>Kitap önerilerinizi [Twitter](https://twitter.com/ahmetalpat)'dan ulaştırabilirsiniz.</sub>
 
 Kategoriler
 -----------------
-* [Popüler Bilim](#populerbil)
-* [İş](#is)
-* [Tasarım](#tasarim)
+* [Popüler Bilim](#popüler-bilim)
+* [İş](#iş)
+* [Tasarım](#tasarım)
 
 :microscope: Popüler Bilim
 ==========================
